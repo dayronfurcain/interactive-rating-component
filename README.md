@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Interactive rating component](https://github.com/dayronfurcain/interactive-rating-component)
+- Live Site URL: [Interactive rating component](https://dayronfurcain.github.io/interactive-rating-component/)
 
 ## My process
 
